@@ -5,7 +5,7 @@
 #
 
 # this uses s9863a1h10_go_32b as base
-include device/sprd/sharkl3/s9863a1h10_go_32b/s9863a1h10_go_32b.mk
+include device/sprd/sharkl3/s9863a1h10_go_32b/s9863a1h10_go_32b_2g.mk
 
 $(call inherit-product, device/custom/DSB0400/device.mk)
 
